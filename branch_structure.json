@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/stellar-explorer-integration",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/stellar-explorer-integration": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/stellar-explorer-integration",
+    "origin"
+  ]
+}
